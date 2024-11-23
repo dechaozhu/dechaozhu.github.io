@@ -3,10 +3,10 @@
     "theme_color": "#1fb5ad",
     "background_color": "#f1f2f7",
     "display": "standalone",
-    "name": "dcz 的个人博客",
+    "name": "朱德超--靡不有初，鲜克有终",
     "start_url": ".",
-    "description": "记录精彩的程序人生",
-    "short_name": "dcz 的个人博客",
+    "description": "芝兰生于深谷，不以无人而不芳；君子修身养德，不以穷困而改志。",
+    "short_name": "${shortName}",
     "icons": [
         {
             "sizes": "48x48",
