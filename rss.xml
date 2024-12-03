@@ -6,8 +6,17 @@
     <atom:link href="https://dechaozhu.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <description>芝兰生于深谷，不以无人而不芳；君子修身养德，不以穷困而改志。</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Sat, 23 Nov 2024 21:29:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 22:36:52 +0800</lastBuildDate>
     <language>zh-cn</language>
+    <item>
+      <title>ES -倒排索引</title>
+      <link>https://dechaozhu.github.io/articles/2024/12/03/1733235720196.html</link>
+      <description/>
+      <author>dcz</author>
+      <guid>https://dechaozhu.github.io/articles/2024/12/03/1733235720196.html</guid>
+      <category>es</category>
+      <pubDate>Tue, 03 Dec 2024 22:35:49 +0800</pubDate>
+    </item>
     <item>
       <title>异步 API 设计最佳实践：用于实时通信的服务端事件发送 (SSE)</title>
       <link>https://dechaozhu.github.io/articles/2024/11/23/1732368130648.html</link>
@@ -15,7 +24,7 @@
       <author>dcz</author>
       <guid>https://dechaozhu.github.io/articles/2024/11/23/1732368130648.html</guid>
       <category>异步</category>
-      <pubDate>Sat, 23 Nov 2024 21:28:56 +0800</pubDate>
+      <pubDate>Tue, 03 Dec 2024 22:35:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
